@@ -1,6 +1,20 @@
 {
     "messageList": [
         {
+            "id": "20220330220000",
+            "title": "2022年度診療報酬改定に伴う電子カルテ更新作業終了について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2022/03/30 21:45:00",
+            "valid_end_date_time": "2022/03/30 23:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "2022年度診療報酬改定の作業完了"
+        },
+        {
             "id": "20220330190000",
             "title": "2022年度診療報酬改定に伴う電子カルテ更新作業について",
             "env": [
