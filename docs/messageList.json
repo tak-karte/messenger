@@ -9,7 +9,7 @@
                 "stagging",
                 "product"
             ],
-            "valid_start_date_time": "2022/08/01 05:30:00",
+            "valid_start_date_time": "2022/08/01 05:00:00",
             "valid_end_date_time": "2022/08/01 07:00:00",
             "url": "https://tak-karte.github.io/messenger/",
             "memo": "psqlf-tak-karte-prod-001の計画メンテナンス"
