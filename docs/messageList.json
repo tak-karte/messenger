@@ -1,6 +1,20 @@
 {
     "messageList": [
         {
+            "id": "20230227033000",
+            "title": "2023年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2023/02/27 03:30:00",
+            "valid_end_date_time": "2023/02/27 04:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "psqlf-tak-karte-prod-001, psqlf-tak-karte-prod-002の計画メンテナンス"
+        },
+        {
             "id": "20230226200000",
             "title": "2023年02月度の電子カルテメンテナンスに伴う利用停止について",
             "env": [
