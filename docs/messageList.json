@@ -1,6 +1,78 @@
 {
     "messageList": [
         {
+            "id": "20240226030001",
+            "title": "2024年2月度の電子カルテメンテナンスに伴う利用停止について(stagging)",
+            "env": [
+                "stagging"
+            ],
+            "valid_start_date_time": "2024/02/26 03:25:00",
+            "valid_end_date_time": "2024/02/26 04:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
+            "id": "20240226030000",
+            "title": "2024年2月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "product"
+            ],
+            "valid_start_date_time": "2024/02/26 03:25:00",
+            "valid_end_date_time": "2024/02/26 04:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
+            "id": "20240225200001",
+            "title": "2024年2月度の電子カルテメンテナンスに伴う利用停止について(stagging)",
+            "env": [
+                "stagging"
+            ],
+            "valid_start_date_time": "2024/02/25 19:55:00",
+            "valid_end_date_time": "2024/02/26 03:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
+            "id": "20240225200000",
+            "title": "2024年2月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "product"
+            ],
+            "valid_start_date_time": "2024/02/25 19:55:00",
+            "valid_end_date_time": "2024/02/26 03:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
+            "id": "20240221210001",
+            "title": "2024年2月度の電子カルテメンテナンスに伴う利用停止について(stagging)",
+            "env": [
+                "stagging"
+            ],
+            "valid_start_date_time": "2024/02/21 20:55:00",
+            "valid_end_date_time": "2024/02/25 20:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
+            "id": "20240221210000",
+            "title": "2024年2月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "product"
+            ],
+            "valid_start_date_time": "2024/02/21 20:55:00",
+            "valid_end_date_time": "2024/02/25 20:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
             "id": "20231218050001",
             "title": "2023年12月度の電子カルテメンテナンスに伴う利用停止について(stagging)",
             "env": [
