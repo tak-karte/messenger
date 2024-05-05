@@ -1,6 +1,20 @@
 {
     "messageList": [
         {
+            "id": "20240506045500",
+            "title": "2024年5月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2024/05/06 04:55:00",
+            "valid_end_date_time": "2024/05/06 07:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "psql計画メンテ、診療報酬改定対応"
+        },
+        {
             "id": "20240506030000",
             "title": "2024年5月度の電子カルテメンテナンスに伴う利用停止について",
             "env": [
