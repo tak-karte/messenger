@@ -1,6 +1,62 @@
 {
     "messageList": [
         {
+            "id": "20240701045500",
+            "title": "2024年6月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2024/07/01 04:55:00",
+            "valid_end_date_time": "2024/07/01 07:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
+            "id": "20240701030000",
+            "title": "2024年6月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2024/07/01 03:25:00",
+            "valid_end_date_time": "2024/07/01 04:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
+            "id": "20240630200000",
+            "title": "2024年6月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2024/06/30 19:55:00",
+            "valid_end_date_time": "2024/07/01 03:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
+            "id": "20240626210000",
+            "title": "2024年6月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2024/06/26 20:55:00",
+            "valid_end_date_time": "2024/06/30 20:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
             "id": "20240506045500",
             "title": "2024年5月度の電子カルテメンテナンスに伴う利用停止について",
             "env": [
