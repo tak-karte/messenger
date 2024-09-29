@@ -1,6 +1,20 @@
 {
     "messageList": [
         {
+            "id": "20240930045500",
+            "title": "2024年9月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2024/09/30 04:55:00",
+            "valid_end_date_time": "2024/09/30 07:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "aksのアップグレード、電子カルテのレベルアップ"
+        },
+        {
             "id": "20240930030000",
             "title": "2024年9月度の電子カルテメンテナンスに伴う利用停止について",
             "env": [
