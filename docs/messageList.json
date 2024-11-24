@@ -9,7 +9,7 @@
                 "stagging",
                 "product"
             ],
-            "valid_start_date_time": "2024/11/25 04:55:00",
+            "valid_start_date_time": "2024/11/25 05:05:00",
             "valid_end_date_time": "2024/11/25 07:00:00",
             "url": "https://tak-karte.github.io/messenger/",
             "memo": "psql計画メンテ"
