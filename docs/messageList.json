@@ -1,6 +1,39 @@
 {
     "messageList": [
         {
+            "id": "20250202030000",
+            "title": "2025年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "product"
+            ],
+            "valid_start_date_time": "2025/02/03 03:25:00",
+            "valid_end_date_time": "2025/02/03 04:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "電子カルテのレスポンス対応の為データ移行"
+        },
+        {
+            "id": "20250202200000",
+            "title": "2025年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "product"
+            ],
+            "valid_start_date_time": "2025/02/02 19:55:00",
+            "valid_end_date_time": "2025/02/03 03:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "電子カルテのレスポンス対応の為データ移行"
+        },
+        {
+            "id": "20250129210000",
+            "title": "2025年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "product"
+            ],
+            "valid_start_date_time": "2025/01/29 20:55:00",
+            "valid_end_date_time": "2025/02/02 20:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "電子カルテのレスポンス対応の為データ移行"
+        },
+        {
             "id": "20241125045500",
             "title": "2024年11月度の電子カルテメンテナンスに伴う利用停止について",
             "env": [
