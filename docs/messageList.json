@@ -1,6 +1,78 @@
 {
     "messageList": [
         {
+            "id": "20250217030001",
+            "title": "2025年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2025/02/17 03:25:00",
+            "valid_end_date_time": "2025/02/17 04:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "アクセス障害対応"
+        },
+        {
+            "id": "20250216200001",
+            "title": "2025年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2025/02/16 19:55:00",
+            "valid_end_date_time": "2025/02/17 03:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "アクセス障害対応"
+        },
+        {
+            "id": "20250212210001",
+            "title": "2025年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2025/02/12 20:55:00",
+            "valid_end_date_time": "2025/02/16 20:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "アクセス障害対応"
+        },
+        {
+            "id": "20250217030000",
+            "title": "2025年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta"
+            ],
+            "valid_start_date_time": "2025/02/17 03:25:00",
+            "valid_end_date_time": "2025/02/17 04:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "電子カルテのレベルアップ、アクセス障害対応"
+        },
+        {
+            "id": "20250216200000",
+            "title": "2025年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta"
+            ],
+            "valid_start_date_time": "2025/02/16 19:55:00",
+            "valid_end_date_time": "2025/02/17 03:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "電子カルテのレベルアップ、アクセス障害対応"
+        },
+        {
+            "id": "20250212210000",
+            "title": "2025年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta"
+            ],
+            "valid_start_date_time": "2025/02/12 20:55:00",
+            "valid_end_date_time": "2025/02/16 20:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "電子カルテのレベルアップ、アクセス障害対応"
+        },
+        {
             "id": "20250203050000",
             "title": "2025年02月度の電子カルテメンテナンスに伴う利用停止について",
             "env": [
