@@ -1,6 +1,18 @@
 {
     "messageList": [
         {
+            "id": "20250317050000",
+            "title": "2025年03月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2025/03/17 04:55:00",
+            "valid_end_date_time": "2025/03/17 07:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "電子カルテのレベルアップ"
+        },
+        {
             "id": "20250317030000",
             "title": "2025年03月度の電子カルテメンテナンスに伴う利用停止について",
             "env": [
