@@ -1,6 +1,48 @@
 {
     "messageList": [
         {
+            "id": "20260223030000",
+            "title": "2026年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2026/02/23 03:25:00",
+            "valid_end_date_time": "2026/02/23 04:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "psqlバージョンアップ、tomcat振り分け対応"
+        },
+        {
+            "id": "20260222200000",
+            "title": "2026年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2026/02/22 19:55:00",
+            "valid_end_date_time": "2026/02/23 03:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "psqlバージョンアップ、tomcat振り分け対応"
+        },
+        {
+            "id": "20260220210000",
+            "title": "2026年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2026/02/20 20:55:00",
+            "valid_end_date_time": "2026/02/22 20:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "psqlバージョンアップ、tomcat振り分け対応"
+        },
+        {
             "id": "20251220050000",
             "title": "2025年12月度の電子カルテ緊急メンテナンスに伴う利用停止について",
             "env": [
