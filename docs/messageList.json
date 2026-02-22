@@ -9,6 +9,20 @@
                 "stagging",
                 "product"
             ],
+            "valid_start_date_time": "2026/02/23 05:40:00",
+            "valid_end_date_time": "2026/02/23 07:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "psql計画メンテ"
+        },
+        {
+            "id": "20260223050000",
+            "title": "2026年02月度の電子カルテメンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
             "valid_start_date_time": "2026/02/23 05:00:00",
             "valid_end_date_time": "2026/02/23 05:30:00",
             "url": "https://tak-karte.github.io/messenger/",
