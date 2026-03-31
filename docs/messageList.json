@@ -1,6 +1,72 @@
 {
     "messageList": [
         {
+            "id": "20260405030001",
+            "title": "2026年04月度の電子カルテ定期メンテナンスに伴う利用停止について",
+            "env": [
+                "dev"
+            ],
+            "facilityCode": [
+                "00170",
+                "00180",
+                "00190",
+                "00200",
+                "00210",
+                "00220",
+                "00230",
+                "00240"
+            ],
+            "valid_start_date_time": "2026/04/05 03:25:00",
+            "valid_end_date_time": "2026/04/05 04:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "psqlバージョンアップ"
+        },
+        {
+            "id": "20260405030000",
+            "title": "2026年04月度の電子カルテ定期メンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta"
+            ],
+            "valid_start_date_time": "2026/04/05 03:25:00",
+            "valid_end_date_time": "2026/04/05 04:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "電子カルテレベルアップ"
+        },
+        {
+            "id": "20260401210001",
+            "title": "2026年04月度の電子カルテ定期メンテナンスに伴う利用停止について",
+            "env": [
+                "dev"
+            ],
+            "facilityCode": [
+                "00170",
+                "00180",
+                "00190",
+                "00200",
+                "00210",
+                "00220",
+                "00230",
+                "00240"
+            ],
+            "valid_start_date_time": "2026/04/01 20:55:00",
+            "valid_end_date_time": "2026/04/05 03:00:00",
+            "url": "https://tak-karte.github.io/messenger-test/",
+            "memo": "psqlバージョンアップ"
+        },
+        {
+            "id": "20260401210000",
+            "title": "2026年04月度の電子カルテ定期メンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta"
+            ],
+            "valid_start_date_time": "2026/04/01 20:55:00",
+            "valid_end_date_time": "2026/04/05 03:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "電子カルテレベルアップ"
+        },
+        {
             "id": "20260316050000",
             "title": "2026年03月度の電子カルテメンテナンスに伴う利用停止について",
             "env": [
