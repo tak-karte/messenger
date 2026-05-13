@@ -8,6 +8,19 @@
                 "beta",
                 "stagging"
             ],
+            "valid_start_date_time": "2026/05/18 05:00:00",
+            "valid_end_date_time": "2026/05/18 07:00:00",
+            "url": "https://tak-karte.github.io/messenger/",
+            "memo": "電子カルテ診療報酬改定対応"
+        },
+        {
+            "id": "20260518030000",
+            "title": "2026年05月度の電子カルテ定期メンテナンスに伴う利用停止について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging"
+            ],
             "valid_start_date_time": "2026/05/18 03:25:00",
             "valid_end_date_time": "2026/05/18 04:00:00",
             "url": "https://tak-karte.github.io/messenger/",
